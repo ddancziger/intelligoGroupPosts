@@ -12,6 +12,7 @@ Project generated with AngularCli on Angular 4
 
 ## Assumptions
 Was used angular material for design proupose
+
 Posts where generated random and insert into file the folder as posts.data.ts
 
 Genreated by Daniel Dancziger
