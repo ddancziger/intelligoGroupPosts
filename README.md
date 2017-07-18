@@ -4,8 +4,9 @@ Project generated with AngularCli on Angular 4
 
 ## For running the project
 1) clone the project
-2) run npm install
-3) run ng serve
+2) cd intelligoGroupPosts/
+3) run npm install
+4) run ng serve
 
 ## Plugins:
 - Angular Material 2
